@@ -1,7 +1,7 @@
 # 🤔
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&layout=compact)](https://github.com/xiongnemo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&langs_count=20)](https://github.com/xiongnemo)
 
 <!--
 **xiongnemo/xiongnemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
