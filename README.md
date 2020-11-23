@@ -25,7 +25,7 @@
 
 ### Try OCaml and Ruby!
 
-![https://ocaml.org/](https://img.shields.io/badge/ocaml-4.11.1-EC6C11?logo=ocaml) ![https://www.ruby-lang.org/en/](https://img.shields.io/badge/ruby-2.7.2-e0115f?logo=ruby)
+[![Camel](https://img.shields.io/badge/ocaml-4.11.1-EC6C11?logo=ocaml)](https://ocaml.org/) [![Ruby](https://img.shields.io/badge/ruby-2.7.2-e0115f?logo=ruby)](https://www.ruby-lang.org/)
 
 
 
