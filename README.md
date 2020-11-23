@@ -7,7 +7,7 @@
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiongnemo.xiongnemo)
 -->
-### WHat's up?
+### What's up?
 
 > わたしは 歌います
 >
