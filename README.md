@@ -1,13 +1,13 @@
 # README
 
-## Nemo Xiong
+### Nemo Xiong
 
 [Ps7ch3](https://github.com/Ps7ch3)'s faithful servent.
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiongnemo.xiongnemo)
 -->
-## WHat's up?
+### WHat's up?
 
 > わたしは 歌います
 >
@@ -19,7 +19,7 @@
 >
 > むぎゅぎゅむぎゅぎゅぎゅー
 
-## Badges
+### Badges
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&langs_count=20&layout=compact)
 
