@@ -1,6 +1,19 @@
-# Nemo Xiong
+# Nemo Xiong's README
 
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiongnemo.xiongnemo)
+-->
+
+> わたしは 歌います
+>
+> わたしを 探して
+>
+> むー むぎゅぎゅぎゅぎゅ
+>
+> むーむぎゅぎゅぎゅぎゅ
+>
+> むぎゅぎゅむぎゅぎゅぎゅー
+
 
 |Langs|Stats|
 |--|--|
