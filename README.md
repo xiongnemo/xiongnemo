@@ -7,7 +7,6 @@
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiongnemo.xiongnemo)
 -->
-### What's up?
 
 > わたしは 歌います
 >
@@ -18,6 +17,10 @@
 > むーむぎゅぎゅぎゅぎゅ
 >
 > むぎゅぎゅむぎゅぎゅぎゅー
+
+### What's up?
+
+Nope.
 
 ### Badges
 
