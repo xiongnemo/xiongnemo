@@ -2,7 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiongnemo.xiongnemo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&langs_count=20&layout=compact)](https://github.com/xiongnemo)![xiongnemo](https://github-readme-stats.vercel.app/api?username=xiongnemo&show_icons=true)
+|Langs|Stats|
+|--|--|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&langs_count=20&layout=compact)](https://github.com/xiongnemo)|![xiongnemo](https://github-readme-stats.vercel.app/api?username=xiongnemo&show_icons=true)|
 
 <!--
 **xiongnemo/xiongnemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
