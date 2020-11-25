@@ -24,7 +24,7 @@ Nope.
 
 ### Badges
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&langs_count=20&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&langs_count=20&layout=compact)](https://github.com/xiongnemo/)
 
 ### Try OCaml and Ruby!
 
