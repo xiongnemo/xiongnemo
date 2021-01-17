@@ -4,6 +4,8 @@
 
 [Ps7ch3](https://github.com/Ps7ch3)'s faithful servent.
 
+Engages in visual novels.
+
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiongnemo.xiongnemo)
 -->
