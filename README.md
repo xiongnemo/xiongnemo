@@ -6,6 +6,8 @@
 
 Engages in visual novels.
 
+Misc in CTF events.
+
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiongnemo.xiongnemo)
 -->
