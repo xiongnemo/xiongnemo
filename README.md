@@ -24,7 +24,19 @@ Misc in CTF events.
 
 ### What's up?
 
-Nope.
+Preparing for [NPEE/UNGCEE](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E7%A1%95%E5%A3%AB%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E8%80%83%E8%AF%95):
+
+```json
+{
+    "acknowledged": false,
+    "error": {
+        "root_cause": {
+            "type": "parsing_exception",
+            "reason": "Unknown key for a TIME_SLICE in [busy]"
+        }
+    }
+}
+```
 
 ### Badges
 
@@ -41,20 +53,3 @@ Nope.
 |--|--|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&langs_count=20&layout=compact)](https://github.com/xiongnemo)|![xiongnemo](https://github-readme-stats.vercel.app/api?username=xiongnemo&show_icons=true)|
 -->
-<!--
-**xiongnemo/xiongnemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
-
