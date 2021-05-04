@@ -1,6 +1,8 @@
 # README
 
-### [Nemo Xiong](https://github.com/xiongnemo)
+## [Nemo Xiong](https://github.com/xiongnemo)
+
+### Quick Intro
 
 [Ps7ch3](https://github.com/Ps7ch3)'s faithful servent.
 
