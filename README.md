@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Scripting in `Python` and `Bash` for personal use.
 
-Plays certain mobile anime games.
+Plays certain mobile anime game.
 
 [![CH0194_home-Start_Idle_01_16](https://user-images.githubusercontent.com/38759782/233515332-690d1e28-61c6-40e6-ad4f-328528e09a45.png)](https://bluearchive.fandom.com/wiki/Sumi_Serina_(Christmas_ver.))
 
