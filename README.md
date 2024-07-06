@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ## [Nemo Xiong](https://github.com/xiongnemo)
 
+*We acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.*
+
 ### Intro
 
 Scripting in `Python` and `Bash` for personal use.
