@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 *We acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.*
 
+<img src="https://github.com/xiongnemo/xiongnemo/assets/38759782/f1431a2a-1e8a-4751-88b6-5dc5066c4594" width="100">
+<img src="https://github.com/xiongnemo/xiongnemo/assets/38759782/a902d745-94f4-4d82-a587-bb3e34c2b052" width="100">
+<img src="https://github.com/xiongnemo/xiongnemo/assets/38759782/4a3144d8-72c8-4f61-87fb-a282fefd09c5" width="100">
+
 ### Intro
 
 Scripting in `Python` and `Bash` for personal use.
