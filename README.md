@@ -32,6 +32,10 @@ Plays certain mobile anime game.
 
 > メリークリスマス！救護騎士団のセリナです！特別なクリスマスにしましょうね！
 
+### Active timeslots
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiongnemo&utcOffset=10)](https://github.com/xiongnemo/)
+
 ### Badges
 
 |Top Langs (except C++ && JavaScript)|MTM (explains why COBOL & REXX exist)|
