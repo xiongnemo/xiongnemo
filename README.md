@@ -22,21 +22,17 @@ Here are some ideas to get you started:
 <img src="https://github.com/xiongnemo/xiongnemo/assets/38759782/a902d745-94f4-4d82-a587-bb3e34c2b052" width="100">
 <img src="https://github.com/xiongnemo/xiongnemo/assets/38759782/4a3144d8-72c8-4f61-87fb-a282fefd09c5" width="100">
 
-### Intro
-
 Scripting in `Python` and `Bash` for personal use.
 
-Plays certain mobile anime game.
+Playing certain mobile anime games.
 
 [![CH0194_home-Start_Idle_01_16](https://user-images.githubusercontent.com/38759782/233515332-690d1e28-61c6-40e6-ad4f-328528e09a45.png)](https://bluearchive.fandom.com/wiki/Sumi_Serina_(Christmas_ver.))
 
 > お待ちしておりました。先生、メリークリスマス！救護騎士団のセリナです！特別なクリスマスにしましょうね！
 
-### Active timeslots
+When to find me:
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xiongnemo&utcOffset=10)](https://github.com/xiongnemo/)
-
-### Badges
 
 |Top Langs (except C++ && JavaScript)|MTM (explains why COBOL & REXX exist)|
 | :-: | :-: |
