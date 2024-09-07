@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # [Nemo Xiong](https://github.com/xiongnemo)
 
-> メグリメグル世界 幸せの花よ咲き誇れ
+> メグリメグル世界　幸せの花よ咲き誇れ
 
 ## Acknowledgment of the country
 
