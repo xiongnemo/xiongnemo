@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 > メグリメグル世界　幸せの花よ咲き誇れ
 
-## Acknowledgment of the country
+## Acknowledgment of Country
 
 *We acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.*
 
