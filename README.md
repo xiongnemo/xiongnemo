@@ -44,8 +44,9 @@ Playing certain mobile anime games.
 
 [![CH0194_home-Start_Idle_01_16](https://user-images.githubusercontent.com/38759782/233515332-690d1e28-61c6-40e6-ad4f-328528e09a45.png)](https://bluearchive.fandom.com/wiki/Sumi_Serina_(Christmas_ver.))
 
+> お待ちしておりました。先生、メリークリスマス！救護騎士団のセリナです！特別なクリスマスにしましょうね！
+
 [![RO635](https://github.com/user-attachments/assets/477d95ef-36ba-4fcb-93bf-7b3e2de17aad)](https://iopwiki.com/wiki/RO635)
 
-
-> お待ちしておりました。先生、メリークリスマス！救護騎士団のセリナです！特別なクリスマスにしましょうね！
+> 女士进入会场的时候，应该像一只蝴蝶。轻巧，又优雅……不要吵，SOPII。这是很严肃的场合……至少不要跑啊。
 
