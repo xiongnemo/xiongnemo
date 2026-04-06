@@ -40,7 +40,7 @@ Nemo scripts in `Python` and `Bash` for personal use and for research. He someti
 
 |Top Langs (except C++ && JavaScript)|MTM (explains why COBOL & REXX exist)|
 | :-: | :-: |
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongnemo&langs_count=20&layout=compact&hide=c%2B%2B,html,css,javascript)](https://github.com/xiongnemo/)|[<img src="https://images.credly.com/size/340x340/images/0f804e77-5da0-40b2-b343-f6ea58c48f9d/MTM_Level_3.png" width="250" height="250" />](https://www.credly.com/badges/bda5732a-047d-47d7-bae4-2997ca4bac4f)|
+|[![Top Langs](https://gh-stats.work/API/top-langs/?username=xiongnemo&langs_count=20&layout=compact&hide=c%2B%2B,html,css,javascript)](https://github.com/xiongnemo/)|[<img src="https://images.credly.com/size/340x340/images/0f804e77-5da0-40b2-b343-f6ea58c48f9d/MTM_Level_3.png" width="250" height="250" />](https://www.credly.com/badges/bda5732a-047d-47d7-bae4-2997ca4bac4f)|
 
 <!--
 
